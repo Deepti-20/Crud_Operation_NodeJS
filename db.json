@@ -1,0 +1,59 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "name": "Man’s Search for Meaning",
+      "author": "Victor E. Fankl"
+    },
+    {
+      "id": 2,
+      "name": "Wise Men Fear",
+      "author": "Patrick Rothfuss"
+    },
+    {
+      "id": 3,
+      "name": "Mindset: the New Psychology for Success",
+      "author": "Carol S. Dweck"
+    },
+    {
+      "id": 4,
+      "name": "The Alchemist",
+      "author": "Paulo Coelho"
+    },
+    {
+      "id": 5,
+      "name": "The Four Agreements",
+      "author": "Don Miguel Ruiz"
+    },
+    {
+      "id": 6,
+      "name": "Choose Yourself",
+      "author": "James Altucher"
+    },
+    {
+      "id": 7,
+      "name": " The Power of Positive Thinking",
+      "author": "Dr. Norman Vincent Peale"
+    },
+    {
+      "id": 8,
+      "name": "Girl Stop Apologizing",
+      "author": "Rachel Hollis"
+    },
+    {
+      "id": 9,
+      "name": "Now, Discover Your Strengths",
+      "author": "Marcus Buckingham and Donald Clifton"
+    },
+    {
+      "id": 10,
+      "name": "Think and Grow Rich",
+      "author": "Napoleon Hill"
+    },
+    {
+      "id": 12,
+      "name": "Everything Is F*cked",
+      "author": "Mark Manson"
+    }
+  ]
+}
